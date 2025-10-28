@@ -22,7 +22,7 @@ Hi 👋, I'm Venel full-stack dev in JavaScript, Typescript, Java, Python. I'm u
 ## Languages:
 <p>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,tailwind"/>
-</p>zzzzz 
+</p> 
 
 ## Frameworks:
 <p>
