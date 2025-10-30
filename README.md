@@ -2,17 +2,21 @@
 Hi 👋, I'm Venel full-stack dev in JavaScript, Typescript, Java, Python. I'm using Expo and Next.js for my projects but can also work on other frameworks.
 
 ---
+
 <a href="https://open.spotify.com/user/fjxj5u9144j0152xk77ofi3wu">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxj5u9144j0152xk77ofi3wu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" height=150>
 </a>
+
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=v3nel&show_icons=true&theme=merko" height=150/>
 
 ---
+
 <a href="https://wakatime.com/@venel">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=venel&theme=dark" height=150/>
 </a>
+
 ---
 
 ## I'm currently working on :
