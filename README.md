@@ -11,7 +11,7 @@ Hi 👋, I'm Venel full-stack dev in JavaScript, Typescript, Java, Python. I'm u
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=venel" height=150/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=venel&theme=merko" height=150/>
 
 ---
 
