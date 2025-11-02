@@ -9,7 +9,7 @@ Hi 👋, I'm Venel full-stack dev in JavaScript, Typescript, Java, Python. I'm u
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=v3nel&show_icons=true&theme=merko"/>
+<img src="https://github-readme-stats.vercel.app/api?username=v3nel&show_icons=true&theme=dark"/>
 
 ---
 
