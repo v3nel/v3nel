@@ -21,6 +21,7 @@ Hi 👋, I'm Venel full-stack dev in JavaScript, Typescript, Java, Python. I'm u
 
 ## I'm currently working on :
 - [Friendlist](https://github.com/friendlistapp)
+- [gruntmag.com Site rework](https://github.com/v3nel/gruntsiterework)
 
 # Techs and Tools:
 ## Languages:
