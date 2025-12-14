@@ -10,15 +10,8 @@ Hi 👋, I'm Venel full-stack dev in JavaScript, Typescript, Java, Python. I'm u
 </a>
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=v3nel&show_icons=true&theme=dark"/>
-
----
-
-<a href="https://wakatime.com/@venel">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=venel&theme=dark"/>
-</a>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ## I'm currently working on :
