@@ -45,6 +45,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LINES_OF_CODE: True
-
-
+          COMMIT_BY_ME: True
+          SHOW_TOTAL_CODE_TIME: False
+          SHOW_PROFILE_VIEWS: False
+          SHOW_LANGUAGE_PER_REPO: False
+          SHOW_LOC_CHART: False
+          SYMBOL_VERSION: 2
+          SHOW_UPDATED_DATE: False
