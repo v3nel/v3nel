@@ -40,8 +40,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_BY_ME: True
-          COMMIT_EMAIL: "erazzorlinx@gmail.com"
           SHOW_TOTAL_CODE_TIME: False
           SHOW_PROFILE_VIEWS: False
           SHOW_LANGUAGE_PER_REPO: False
