@@ -46,4 +46,3 @@ jobs:
           SHOW_LOC_CHART: False
           SYMBOL_VERSION: 2
           SHOW_UPDATED_DATE: False
-          SHOW_HIRE: True
