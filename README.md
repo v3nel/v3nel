@@ -101,7 +101,7 @@ Linux                    1 hr 43 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 # Contact me:
 
 <p>
-    <a href="mailto:me@v3nel.me">
+    <a href="mailto:me@v3nel.dev">
         <img src="https://skillicons.dev/icons?i=gmail"/>
     </a>
     <a href="https://discord.com/users/580447236702470176">
