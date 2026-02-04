@@ -72,7 +72,6 @@ Linux                    4 hrs 52 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 ## I'm currently working on :
 - [Friendlist](https://github.com/friendlistapp)
-- [gruntmag.com Site rework](https://github.com/v3nel/gruntsiterework)
 
 # Techs and Tools:
 ## Languages:
