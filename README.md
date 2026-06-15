@@ -76,7 +76,7 @@ No Activity Tracked This Week
 # Techs and Tools:
 ## Languages:
 <p>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=rust,javascript,typescript,python,java,tailwind"/>
 </p> 
 
 ## Frameworks:
