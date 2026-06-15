@@ -81,7 +81,7 @@ No Activity Tracked This Week
 
 ## Frameworks:
 <p>
-    <img src="https://skillicons.dev/icons?i=express,discordjs,fastapi,nextjs,react"/>
+    <img src="https://skillicons.dev/icons?i=axum,express,discordjs,fastapi,nextjs,react"/>
 </p>
 
 ## Softwares:
